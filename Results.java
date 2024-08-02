@@ -21,6 +21,9 @@ public class Student {
         return (RE+SDA+SQAT+SEAM+FM)/4;
     }
 
+    int countAll() {
+        return 0;
+    }
   
     int getTotal()
     {
